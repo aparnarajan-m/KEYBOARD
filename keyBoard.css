@@ -1,0 +1,62 @@
+body{
+    padding: 0px;  
+}
+
+.Full-Key{
+    border: 1px solid black;
+    padding: 15px;
+    text-align: center;
+    margin: 80px 110px;
+    background-color: gray;
+
+}
+
+.btn1{
+    padding: 10px 20px;
+    margin: 2px;
+    border-radius: 5px; 
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);  
+}
+
+.btn{
+    padding: 20px 26px;
+    margin: 2px;
+    border-radius: 5px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+#long-enter{
+    padding-right: 280px;
+
+}
+
+.long-btn{
+    padding: 22px 33px;
+    border-radius: 5px;
+}
+
+#shi{
+    width: 240px;
+}
+#ent{
+    width: 180px;
+}
+#esc{
+    width: 80px;
+}
+#tab{
+    width: 200px;
+}
+#cap{
+    width: 160px;
+}
+.btn:hover{
+    background-color: rgb(150, 142, 142);
+}
+
+
+
+
+
+
+
